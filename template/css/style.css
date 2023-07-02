@@ -15,8 +15,6 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
-.texto{color: red;}
-
 a {
   color: #007bff;
   transition: 0.5s;
@@ -159,10 +157,9 @@ h6 {
 }
 
 #header .logo img {
-  padding: 1px;
-  margin: -59px 0;
-  max-height: 75px;
-
+  padding: 0;
+  margin: 7px 0;
+  max-height: 26px;
 }
 
 .main-pages {
