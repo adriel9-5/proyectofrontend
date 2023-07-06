@@ -158,8 +158,8 @@ h6 {
 
 #header .logo img {
   padding: 0;
-  margin: 7px 0;
-  max-height: 26px;
+  margin: -4px 0;
+  max-height: 54px;
 }
 
 .main-pages {
@@ -173,7 +173,7 @@ h6 {
 #intro {
   width: 100%;
   position: relative;
-  background: url("../img/intro-bg.png") center bottom no-repeat;
+  background: url("../img/intro2-bg.png") center bottom no-repeat;
   background-size: cover;
   padding: 200px 0 120px 0;
 }
@@ -965,7 +965,7 @@ h6 {
 }
 
 #team .member:hover .member-info {
-  background: rgba(0, 62, 128, 0.7);
+  background: rgba(0, 66, 15, 0.7);
   opacity: 1;
   transition: 0.4s;
 }
@@ -976,10 +976,10 @@ h6 {
 }
 
 #team .member h4 {
-  font-weight: 700;
+  font-weight: 900;
   margin-bottom: 2px;
-  font-size: 18px;
-  color: #fff;
+  font-size: 25px;
+  color: rgb(245, 244, 250);
 }
 
 #team .member span {
